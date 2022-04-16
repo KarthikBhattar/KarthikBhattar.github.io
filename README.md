@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-    <h3 style="align-text: left;">Programing language</h2>
+    <h2 style="align-text: left;">Programing language</h2>
     <img style="width: 50%; border-radius: 10px; filter: drop-shadow(5px 5px 4px black);" src="https://c.tenor.com/47CdzeuFFLIAAAAM/settings-machines.gif"/>
     <br>
     <center>
@@ -37,7 +37,7 @@
     </p>
     </center>
     <br>
-    <h3 style="align-text: left;">Operating System</h2>
+    <h2 style="align-text: left;">Operating System</h2>
     <img style="width: 50%; border-radius: 10px; filter: drop-shadow(5px 5px 4px black);" src="https://i.gifer.com/FUr1.gif"/>
     <br>
     <center>
@@ -46,7 +46,7 @@
         An operating system is probably the most difficult project <br> I would love to make. I have just started experimenting <br> with low-level languages so it may take a while. No worries I <br> will for sure take on this project sometime in the future.
     </p>
     </center>
-    <h3 style="align-text: left;">Web Browser</h2>
+    <h2 style="align-text: left;">Web Browser</h2>
     <img style="width: 50%; border-radius: 10px; filter: drop-shadow(5px 5px 4px black);" src="https://cdn.dribbble.com/users/1286/screenshots/1137686/safari.gif"/>
     <br>
     <center>
