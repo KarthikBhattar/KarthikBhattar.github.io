@@ -1,5 +1,4 @@
 <head>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
     <div id="nav">
         <img src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" style="margin-bottom: 10px; width: 33px; float: right"/>
         <p style="float: left; font-weight: bold; margin-top: 4px; font-size: 14px;">
