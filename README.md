@@ -1,9 +1,3 @@
----
-title-heading: false
----
-
-# Welcome!
-
 <head>
     <div id="nav">
         <a href="https://github.com/KarthikBhattar/KarthikBhattar.github.io">
