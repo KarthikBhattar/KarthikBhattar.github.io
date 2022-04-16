@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9318528d452661b4a6e6b72fb0cc7ad57954693e
 <head>
     <div id="nav">
         <a href="https://github.com/KarthikBhattar/KarthikBhattar.github.io">
