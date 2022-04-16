@@ -52,7 +52,7 @@
     <center>
     <br>
     <p style="text-align: center;">
-        This is by far my favorite project. I would really love to build it. <br> So this is the project the I will be developing for the next <br> few months. <a>Click here</a> to view the github repo -it's quite empty <br> right now- please feel free to contribute to this project. I would <br> love it!
+        This is by far my favorite project. I would really love to build it. <br> So this is the project the I will be developing for the next <br> few months. <a href="https://github.com/KarthikBhattar/goose">Click here</a> to view the github repo -it's quite empty <br> right now- please feel free to contribute to this project. I would <br> love it!
     </p>
     </center>
 </div>
